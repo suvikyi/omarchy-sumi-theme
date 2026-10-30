@@ -1,0 +1,41 @@
+# Sumi — dark theme
+# Existing ANSI palette retained; semantic colors extend its surfaces and text hierarchy.
+# brighter black / ANSI color8 = lighter_background (#202020)
+
+# General
+mode = "dark"
+accent = "#72aba4"
+selection = "#2d4541"
+muted = "#8b8c87"
+
+# Surfaces and foregrounds
+foreground = "#dadad5"
+background = "#121212"
+dark_background = "#0d0d0d"
+darker_background = "#080808"
+lighter_background = "#202020"
+dark_foreground = "#b0b0ac"
+light_foreground = "#e8e8e3"
+bright_foreground = "#f5f4ef"
+
+# Borders and tabs
+hyprland_active_border = "rgb(87c1bb)"
+hyprland_inactive_border = "rgb(486b66)"
+active_border_color = "#87c1bb"
+active_tab_background = "#72aba4"
+
+# ANSI base colors
+red = "#e87366"
+green = "#8ca882"
+yellow = "#c69963"
+blue = "#85a2be"
+magenta = "#c08da7"
+cyan = "#72aba4"
+
+# ANSI bright colors
+bright_red = "#fb8d7e"
+bright_green = "#a6bd92"
+bright_yellow = "#dbab67"
+bright_blue = "#98b8d6"
+bright_magenta = "#d6a2c1"
+bright_cyan = "#87c1bb"
